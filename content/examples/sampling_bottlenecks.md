@@ -10,6 +10,7 @@ author = "Oliver Gäfvert"
 group = "math-data"
 +++
 
+Test 
 The paper [Sampling and homology via bottlenecks](https://arxiv.org/abs/2010.07976) by Di Rocco et. al. introduces a novel algorithm for producing a provably dense sample of a smooth and compact algebraic variety. Using the $\textit{bottlenecks}$ we obtain bounds on the density of the sample needed in order to guarantee that the homology of the variety can be recovered from the sample. This example implements the algorithm for the case when the variety is a smooth and compact complete intersection.
 
 ## Sampling
